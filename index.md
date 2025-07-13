@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Virtual Car Showroom
 
-[Link to another page](./another-page.html).
+A full-stack web application built using the **MERN stack** (MongoDB, Express, React, Node.js), designed to provide users with an immersive experience in viewing, booking, and managing virtual cars.
 
-There should be whitespace between paragraphs.
+> **Team project** developed as part of an Externship at **Ethnus**.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Features
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+-  **User Authentication** – Secure login for customers and admin using JWT.
+- **Car Booking** – Book your favorite car with real-time availability.
+- **Service Management** – Book appointments for repairs and maintenance.
+- **CRUD Operations** – Complete Create, Read, Update, Delete functionality for managing car listings and services.
+- **Responsive UI** – Built using **React.js** and **Bootstrap** for seamless experience on all devices.
+- **RESTful APIs** – Backend powered by **Node.js** and **Express.js** with **MongoDB** database integration.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Live Links
 
-### Header 3
+### User Frontend
+[https://project-user-frontend.vercel.app/](https://project-user-frontend.vercel.app/)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Admin Frontend
+[https://project-frontend-admin.vercel.app/](https://project-frontend-admin.vercel.app/)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## GitHub Repositories
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **User Frontend Repository**  
+  [https://github.com/moningiramachandrarao/ProjectTrail-frontend](https://github.com/moningiramachandrarao/ProjectTrail-frontend)
 
-##### Header 5
+- **Admin Frontend Repository**  
+  [https://github.com/moningiramachandrarao/project-frontend-2](https://github.com/moningiramachandrarao/project-frontend-2)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Tech Stack
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Frontend      | Backend        | Database     | Deployment  |
+|---------------|----------------|--------------|-------------|
+| React.js      | Node.js        | MongoDB      | Vercel      |
+| Bootstrap     | Express.js     | Mongoose ODM |             |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
