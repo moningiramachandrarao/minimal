@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center"> Ramachandra Rao Moningi </p>
+logo: /assets/img/Ramachandra Rao.jpeg
+description:
+<p align="center">
+<a href="https://www.linkedin.com/in/ramachandra-rao-moningi-25538223a/">LinkedIn</a> |
+<a href = "https://github.com/moningiramachandrarao">Git Hub</a>
+
+<br>
+I am passionate about backend development, with hands-on experience in building robust and
+scalable applications using Spring Boot, Node.js, Express.js, and MongoDB. 
+I enjoy designing RESTful APIs, working with databases,
+and creating efficient server-side logic that powers real-world applications.
+</br>
+</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
